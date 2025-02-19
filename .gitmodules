@@ -1,0 +1,3 @@
+[submodule "DJI"]
+	path = DJI
+	url = git@github.com:PhoenixZqh/EXPLORE.git

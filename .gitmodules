@@ -1,3 +1,9 @@
 [submodule "DJI"]
 	path = DJI
 	url = git@github.com:PhoenixZqh/EXPLORE.git
+[submodule "EXPLORE/Dji"]
+	path = EXPLORE/Dji
+	url = git@github.com:PhoenixZqh/dji_explore.git
+[submodule "Dji"]
+	path = Dji
+	url = git@github.com:PhoenixZqh/dji_explore.git
